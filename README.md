@@ -37,7 +37,9 @@ It allows you to:
 ## 📁 Project Structure
 
 ```
-main1.py        # Core pipeline + FastAPI app
+README.md
+main1.py       # Core pipeline + FastAPI app
+requirements.txt
 ```
 
 ---
@@ -59,8 +61,8 @@ MONGO_URI=your_mongodb_connection_string
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Kuvam210/RAG-Pipeline
+cd RAG-Pipeine
 
 pip install -r requirements.txt
 ```
